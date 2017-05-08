@@ -1,10 +1,15 @@
 # NaiveBayesClassifier 
 //copyright@ Di Liu  Carleton University May 7,2017
+
 //for more details about the background and dataset, email me liudi25ece@outlook.com
+
 //The code realize the function of Naive Bayes Classifier, including hold-out test, active learning, blind test, format output.
+
 //there are 2 choices for loading the dataset
+
 //1.you could separate the data as training and testing dataset yourself and then load 
 //separately.
+
 //2.or you could apply “percentage_split” function to realize hold-out test.
 //the initial value for the percentage is 70% for training and 30% for testing. You could 
 //also change the percentage for the test at any percentage.
